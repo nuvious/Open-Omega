@@ -23,6 +23,18 @@ The headphone was originally designed to be made via SLS. I've simplified elemen
 - Laser OR exacto knife for cutting stainless mesh & 3m adhesive
 - Appropriate PPE
 
+## Estimated price of supplies
+
+| Product                                   | price    |
+| ----------------------------------------- | -------- |
+| Dekoni foam attenuation                   | $19      |
+| Dekoni LCD Choice suede pads              | $60      |
+| 3m 468mp adhesive                         | $6-12    |
+| Peerless by Tymphany HPD-50N25PR00-32 * 2 | $22      |
+| PJ392 3.5mm Jacks * 2                     | $4       |
+| Silicone flexible wire                    | $16      |
+| **Total**                                 | **$133** |
+
 ## Video instructions and More Info
 
 Click below for instructions on how to assemble the Open Omega and additional background on the project.
